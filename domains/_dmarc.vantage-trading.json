@@ -1,0 +1,4 @@
+{
+  "owner": { "username": "WizArd101101" },
+  "records": { "TXT": "v=DMARC1; p=none;" }
+}
